@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UZYV5TGsgaX1hVkbxVDrkZmDfenDU1Fr2NGk+4/0o5E=",
+  "Source": "FSTaskDatabaseApi",
+  "BasePath": "_content/FSTaskDatabaseApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

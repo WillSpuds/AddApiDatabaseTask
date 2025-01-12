@@ -1,0 +1,16 @@
+﻿@FSTaskDatabaseApi_HostAddress = http://localhost:5001
+
+GET {{FSTaskDatabaseApi_HostAddress}}/api/database
+
+###
+
+POST {{FSTaskDatabaseApi_HostAddress}}/api/database
+Content-Type: application/json
+
+{
+    "addends": [654,55],
+    "total": 165
+}
+
+###
+
